@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T09:25:34.457Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="5anp5cb91OZxau_Ms9Zy" version="14.6.13" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptj6I6FP41flwDFBA+rs7O3pvsbCZ3NzsfTYWKjYWaUkfn/vo9hQpYnFkzo6AbSdRyeujLec5z2h4coEm6/SrwavHAY8IGjhVvB+hu4Di2awXwoyQvpcQPw1KQCBprpVrwg/5PtNDS0jWNSb6nKDlnkq72hRHPMhLJPRkWgm/21eac7fe6wglpCX5EmLWlTzSWCy21Lauu+IfQZKG7DjxdMcPRMhF8nen+Bg6aF1dZneJdW1o/X+CYbxoi9GWAJoJzWZbS7YQwZdud2crn7l+prcYtSCaPecAPSTQn88iLXJu4TvTJ1sjl8mVnDBKDbfRtxjP4GRczJKoNC+4WMmVQtKHI8IywcWWECWdc1I+RLP6s0KkluRR8WdkYpj+e80ze45Qy5Tq/iIhxhrVY+4kanzlLPfGcr0VEXpuadiQsEiJf0UGljppyo2Ftu6+Ep0SKF1AQhGFJn/fdBWuvSyq92vJQ0MY/FoiyzWfM1mTnSwYwNC3c+Aj7126IxvqpO5omMChGZ/AdMbqaYiGhmBG54WJJM1X7RGGiJM+n//G1JGJqO8EWPsMV1Da9QHVdubJyiYinNNLlwxj/GcxnIiTZvgmDrnVHmk463Li+V95vavIGWmXRpK11BuCcFnD/ZmA7sGsPAE4YX8fngU2P9ZHnVFKegTAiaqJQoZCjEE2/GQqSr6AWM5ocVP+sK2ZcSp5CxRlcA9am/lzDDv/a4IqOCK7OxQRX1OLoPUS6DVZPdc7RXddd0VSUXv4qS1Max2r2FVEZmcsDNK30zkBTJ+yRpm7LO37iGesqfgO4K7XY5lCmj/hM0fvjkHnWPmQjq0fIvBZkj5Pu4XrgGZVcTH/yzeVulmxvHze/zxXRb+MmaLEt6Bw83fG1wOb2CdvoIuj2BEtoLrFati4VtREyyDbqEbWghdoDn1GAqxPkJJwkwfjpOoNNRLHVUOvbAraqlwpeYKxwntcjeGELvG94pQ5UndPuO5EzzpcfQa0xAqu4DuNJGWto3hfXgQ2uuj/U4ilcwDaibp+bnN1Y/g4fOCdzkWPsTe0+YTsildcAyvD6SXEdYo4fBPYYQU0icExJzQF9/N+J7+B8GemzXcaFmv8BCACtlRpMuk1UTn+oj6j5UMXsKaPZcloe3D+SkTgq//AOQr+ZmtB7zDdTE7qdP6YmGv5TvQxoOlAlPDqHoft45LD7bDiwsfSg0PDMcsb6qdo5Ww25RkOO2VBpllZDhZdXE3+n47dToTfHf5fjF3raaAfe8RzDAu8aWWCEcTewh6Hne449QqGNLO+dnDCSTZ4VDC0XuaPA8a3AD41mz8mQdiLyxpAOl4bdtuC6WGGcKd3wNKwIDFbYvbGinYC9saJDVrjXSArXjOmnIUVoNOv0Rop2ivtGig5JMbpGUnhmSD8JKcw3Px7qjRTt9wc3UnRIiuAaSeGbIf00pDAyhZ7bGynab2dupOiQFOE1ksI8EqPTkMI4wHveeUgBt/V/Zkv1+o/J6Mtv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-16T09:39:20.907Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="JzTe2WHfvZGhhTeOsdjD" version="14.6.13" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1268" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="1vbXx0Ek5Idykpnfvhud-1" target="1vbXx0Ek5Idykpnfvhud-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="163" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="175" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1vbXx0Ek5Idykpnfvhud-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-43" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="-261" y="177.5" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="1vbXx0Ek5Idykpnfvhud-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="182" y="163" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-8" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="194" y="177.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-9" value="&lt;b&gt;Detect Face&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="98" y="189" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#ffffff;fontColor=#000000;strokeWidth=2;strokeColor=#66FF66;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="188" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="1vbXx0Ek5Idykpnfvhud-14" value="&lt;b&gt;Server&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;labelBackgroundColor=#ffffff;fontColor=#000000;strokeColor=#66FF66;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349" y="177.5" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
