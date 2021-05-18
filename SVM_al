@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:51:09.261Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="6bRIcFyuuGe9DVEMBQg0" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:59:42.789Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="OWwJki5bl3Ooi2WaW8Ad" version="14.6.13" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="868" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,6 +16,9 @@
         <mxCell id="_NCtGnh23jTNJ0Ctcrm3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_NCtGnh23jTNJ0Ctcrm3-6" target="_NCtGnh23jTNJ0Ctcrm3-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284" y="311" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="463" y="323" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_NCtGnh23jTNJ0Ctcrm3-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
@@ -47,6 +50,15 @@
         </mxCell>
         <mxCell id="_NCtGnh23jTNJ0Ctcrm3-15" value="&lt;b&gt;Vector đặc trưng&lt;/b&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="633" y="171" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCtGnh23jTNJ0Ctcrm3-17" value="&lt;b&gt;Ảnh khuôn mặt&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="76" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCtGnh23jTNJ0Ctcrm3-18" value="&lt;b&gt;Ảnh khuôn mặt&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="201" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCtGnh23jTNJ0Ctcrm3-19" value="&lt;b&gt;Ảnh khuôn mặt&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="308" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
