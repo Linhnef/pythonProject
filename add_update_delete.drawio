@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T13:23:32.621Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.6.13" etag="R1FqembdRAuWO08-QocY" type="github"><diagram id="Sjlp-tuk9H8oq1HZ3nFa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-24T13:30:12.836Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ledGXC_A0LQ5fYLgGlm6" version="14.6.13" type="github">
+  <diagram id="Sjlp-tuk9H8oq1HZ3nFa" name="Page-1">
+    <mxGraphModel dx="868" dy="401" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-2" target="yDI9pnS0W2EIOpYg3BBL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="291" y="61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="44" y="46" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-5" value="CRUD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="39" y="85" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-7" target="yDI9pnS0W2EIOpYg3BBL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-7" target="yDI9pnS0W2EIOpYg3BBL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="146" />
+              <mxPoint x="435" y="146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="194" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="211" y="146" />
+              <mxPoint x="292" y="146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-7" value="&lt;span&gt;Chọn hành động&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="171" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-8" target="yDI9pnS0W2EIOpYg3BBL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-8" value="&lt;span&gt;Thêm&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="88" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-10" target="yDI9pnS0W2EIOpYg3BBL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-10" value="Sửa" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="232" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-11" target="yDI9pnS0W2EIOpYg3BBL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-11" value="Xóa" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="376" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-15" value="Giao diện ghi chú" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yDI9pnS0W2EIOpYg3BBL-18" target="yDI9pnS0W2EIOpYg3BBL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-18" value="Xác nhận xóa" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDI9pnS0W2EIOpYg3BBL-20" value="giao diện chính" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
